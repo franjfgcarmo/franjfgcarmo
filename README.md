@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hey  👋, I´m Francisco Fernández García, but you can call me for Fran.
 
 <!--
 **franjfgcarmo/franjfgcarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ![Bitnovo](https://www.bitnovo.com/) and ![bitsa](https://www.bitsacard.com/) 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
