@@ -6,4 +6,5 @@
 
 - 🔭 I’m currently working on [Terraminium](https://www.terraminium.com/ "Administración de Fincas")
 
-- 💬 [Twitter](https://twitter.com/franjfgcarmo "Twitter")
+- ✖️ [X](https://x.com/Mr_Wolf_I_s_p "Twitter")
+- 🖥️ [Linkedin](https://www.linkedin.com/in/mrwolfisolveproblems/)
